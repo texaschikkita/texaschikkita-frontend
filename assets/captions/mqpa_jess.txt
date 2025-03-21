@@ -1,0 +1,112 @@
+Hi, I'm Jessica. For the past year, I've been on a mission to explore how quantum computing
+can change how we understand the environment, our data, and even ourselves.
+
+It started with one big question:
+How can we move beyond today's computing limits and create something more evolved?
+
+That question led me to build MQPA, the Molecular Quantum Particle Algorithm.
+Later, I paired it with a powerful tool called MTQC, Multi-Target Quantum Compilation.
+I didn't create MTQC, but I adapted it slightly to work with MQPA and make it scalable.
+
+Together, they form a system that blends quantum computing, GIS, molecular modeling, and AI.
+
+Let's start with the basics.
+
+Classical computers use bits: zeros and ones.
+Quantum computers use qubits—zero, one, or both at the same time. That's called superposition.
+There's also entanglement—when two qubits are linked. Change one and the other reacts instantly,
+no matter how far apart they are.
+
+These features allow us to solve complex problems faster than classical machines ever could.
+
+I applied this to GIS—Geographic Information Systems.
+These platforms already pull massive data from satellites, drones, radar, and sensors.
+But classical systems struggle to process it quickly or in real-world context—fast enough to act.
+
+Quantum GIS flips the script.
+
+With quantum tools, I can model storm behavior, track pollution, and predict environmental changes
+in real time and across multiple possible outcomes.
+
+It's like giving your weather model a quantum brain—one that sees multiple futures at once.
+
+Now let’s talk about MQPA.
+
+It simulates how molecules scatter, bond, and react to environmental forces.
+I didn't run these models in isolation—I linked them to geography:
+live terrain, ecosystems, and weather patterns.
+
+To scale this up, I used MTQC, a compiler that lets you execute many quantum models in parallel.
+I slightly tweaked it to fit MQPA’s needs.
+
+The classical system handles prep and post-processing.
+The quantum layer runs the pattern discovery and optimization.
+
+Grover’s algorithm helps locate patterns quickly.
+Shor’s helps simplify quantum outputs.
+Together, they power a hybrid system for environmental simulation.
+
+I used Quokka early on for rapid prototyping.
+It wasn't perfect, but it let me test fast and switch between quantum backends quickly.
+
+My data sources were varied:
+QM9 for molecular structures, NASA satellite LiDAR data,
+environmental logs, public physics records,
+and pollution data tied to geographic locations.
+
+Each dataset is cleaned classically, then passed through quantum learning models—
+like quantum classifiers, kernel models, or autoencoders.
+
+I bring the results back to classical space for visualization and interpretation.
+
+Interpretation is key.
+
+So I built a GPT-based assistant—my Quantum Fluent AI.
+It reads raw circuit output and explains it in plain English.
+
+When I’m modeling how fossil fuels shift after an earthquake,
+or how rainfall alters urban air chemistry,
+my assistant makes those results clear and usable.
+
+I also pushed this visually.
+
+I passed MQPA outputs into Blender to create 3D molecular meshes.
+Then I processed those molecules using quantum node circuits.
+I visualized Bloch spheres and mapped entanglement as interactive 3D geometry.
+
+The hardest part? Particle scattering.
+
+I used a hybrid quantum method to simulate nonrelativistic elastic scattering.
+Even with hardware noise and decoherence, I got useful predictive results.
+
+So basically—I went from tracking storms to modeling the birth of molecules.
+
+Every part of this process blends quantum, classical, and AI tools
+to interpret, simulate, and refine what we see in nature.
+
+The result? Real-time pipelines for smarter environmental modeling.
+A framework that can be deployed today by government, defense, or research labs.
+
+And now, I’m wrapping it all into a full AI interface at jessi.chat.
+
+Right now it’s just a project showcase—
+but it’s actively becoming a working tool.
+
+Lots of moving parts. Lots of provisioning. Lots of models flying around.
+It’s expensive. It’s complicated. But it’s happening.
+
+The final version will include:
+GPT, BERT, MQPA, MTQC, interactive circuit generators,
+Hugging Face transformer models,
+and all the visual quantum tools I’ve described.
+
+So yeah—it’s been a year. And I’m just getting started.
+
+Thank you for listening.
+
+And a special thanks to Dr. Vivian Sadler, Dr. Eric Larson, Dr. Jacquelyn Cheun,
+and Dr. Jessie Zarazaga for your trust and belief in this vision.
+
+Also, shout out to my good friends at OpenAI—especially Chatty.
+
+Let’s go make some quantum noise.
