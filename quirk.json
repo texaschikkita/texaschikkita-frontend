@@ -1,0 +1,19 @@
+import json
+
+# Constructing the MQPA circuit manually for Quirk (no qiskit)
+quirk_data = {
+    "cols": [
+        ["H", "H", "H"],          # Step 1: Superposition
+        ["•", "X", 1],            # Step 2: Entangle Q0 -> Q1
+        [1, "•", "X"],            # Step 2: Entangle Q1 -> Q2
+        ["Rx(0.5)", "Ry(0.8)", "Rz(1.2)"]  # Step 3: Simulated particle transforms
+    ]
+}
+
+# Save to a JSON file for use with Quirk
+quirk_json_path = "mqpa_quirk_circuit.json"
+with open(quirk_json_path, "w") as f:
+    json.dump(quirk_data, f)
+
+quirk_json_path
+
