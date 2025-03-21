@@ -1,0 +1,376 @@
+1
+00:00:00,000 --> 00:00:07,680
+Hi, I'm Jessica, but the past year, a bit of a mission to explore how quantum computing
+
+2
+00:00:07,680 --> 00:00:13,160
+can change how we understand the environment, our data, and even ourselves.
+
+3
+00:00:13,160 --> 00:00:15,840
+It started with one big question.
+
+4
+00:00:15,840 --> 00:00:21,280
+How can we move beyond today's computing limits and create something more evolved?
+
+5
+00:00:21,280 --> 00:00:27,480
+That question led me to build MQBA, molecular quantum particle algorithm.
+
+6
+00:00:27,480 --> 00:00:34,760
+Later, I appeared with a powerful tool called MTQC, multi-target quantum compilation.
+
+7
+00:00:34,760 --> 00:00:41,400
+I didn't create MTQC, but I adapted it slightly to work with MQBA and make it scalable.
+
+8
+00:00:41,400 --> 00:00:48,440
+Together, they formed a corva system that blends quantum computing, GIS, molecular modeling,
+
+9
+00:00:48,440 --> 00:00:49,440
+and AI.
+
+10
+00:00:49,440 --> 00:00:51,680
+Let's start with the basics.
+
+11
+00:00:51,920 --> 00:00:55,920
+Classical computers use bits, zeros and ones.
+
+12
+00:00:55,920 --> 00:01:01,000
+Quantum computers use qubits, zero, one, or built at the same time.
+
+13
+00:01:01,000 --> 00:01:03,520
+That's called superposition.
+
+14
+00:01:03,520 --> 00:01:07,200
+There's also entanglement, when two qubits are linked.
+
+15
+00:01:07,200 --> 00:01:12,240
+Change one and the other reacts instantly, no matter how far apart they are.
+
+16
+00:01:12,240 --> 00:01:17,880
+These features allow us to solve complex problems faster than classical machines ever could.
+
+17
+00:01:17,920 --> 00:01:22,560
+I applied this to GIS, geographic information systems.
+
+18
+00:01:22,560 --> 00:01:28,280
+These platforms already pull a massive data from satellites, drones, radar, and sensors.
+
+19
+00:01:28,280 --> 00:01:35,280
+The classical systems struggle the process quickly, or put it in a real world context-fast enough to act.
+
+20
+00:01:35,280 --> 00:01:37,640
+Quantum GIS flips the script.
+
+21
+00:01:37,640 --> 00:01:44,200
+With quantum tools, I can model storm behavior, trap pollution, and predict environmental changes
+
+22
+00:01:44,240 --> 00:01:49,080
+all in real time, and across multiple possible outcomes.
+
+23
+00:01:49,080 --> 00:01:55,320
+It's like giving your weather model a quantum brain, one that sees multiple features at once.
+
+24
+00:01:55,320 --> 00:01:57,520
+Now let's talk about MQBA.
+
+25
+00:01:57,520 --> 00:02:02,960
+It stimulates how model kills scatter, bond, and react to environmental forces.
+
+26
+00:02:02,960 --> 00:02:05,320
+I didn't run these models in isolation.
+
+27
+00:02:05,320 --> 00:02:11,360
+I linked them to geography, live terrain, ecosystems, and weather clients.
+
+28
+00:02:11,360 --> 00:02:18,200
+To scale this up, I used MTQC, a compiler that lets you execute many quantum models in parallel.
+
+29
+00:02:18,200 --> 00:02:21,440
+I slightly tweaked it to fit MQBA's needs.
+
+30
+00:02:21,440 --> 00:02:24,800
+The classical system handles prep and post-processing.
+
+31
+00:02:24,800 --> 00:02:29,040
+The quantum layer runs the pattern discovery optimization.
+
+32
+00:02:29,040 --> 00:02:33,120
+Grover's algorithm helps locate patterns quickly.
+
+33
+00:02:33,120 --> 00:02:36,240
+Thor's helps simplify quantum outlets.
+
+34
+00:02:36,240 --> 00:02:40,160
+Together, they power a hybrid system for environmental simulation.
+
+35
+00:02:42,960 --> 00:02:45,600
+I used Google early on for rapid prototyping.
+
+36
+00:02:45,600 --> 00:02:51,920
+It wasn't perfect, but it let me test fast and switch between quantum backends quickly.
+
+37
+00:02:51,920 --> 00:02:53,520
+My data source was varied.
+
+38
+00:02:53,520 --> 00:02:59,280
+I've worked with QM9 for molecular structures, NASA satellite light our data,
+
+39
+00:02:59,280 --> 00:03:04,520
+environmental logs, public, physical records,
+
+40
+00:03:04,520 --> 00:03:08,040
+pollution data tied to geographic locations.
+
+41
+00:03:08,040 --> 00:03:10,600
+Each data set that's cleaned classically
+
+42
+00:03:10,600 --> 00:03:12,840
+then passed through quantum learning models,
+
+43
+00:03:12,840 --> 00:03:18,200
+like quantum classifiers, kernel models, or auto-encodes.
+
+44
+00:03:18,200 --> 00:03:23,880
+I pulled the results back to classical space visualization and interpretation.
+
+45
+00:03:23,880 --> 00:03:25,800
+Interpretation is key.
+
+46
+00:03:25,800 --> 00:03:31,080
+So I built a GPT-based assistant, my quantum fluent AI.
+
+47
+00:03:31,080 --> 00:03:36,760
+It reads raw circuit output and explains them in plain English.
+
+48
+00:03:36,760 --> 00:03:40,760
+When I'm modeling how fossil fuels shift in earthquake,
+
+49
+00:03:40,760 --> 00:03:44,440
+or if I'm modeling how rainfall changes urban air chemistry,
+
+50
+00:03:44,440 --> 00:03:48,200
+my assistant can make those results clear and usable.
+
+51
+00:03:48,200 --> 00:03:50,520
+I also post this visually.
+
+52
+00:03:50,520 --> 00:03:56,440
+I passed MQBA outputs into Blunder to create three demolecular meshes.
+
+53
+00:03:56,440 --> 00:04:00,760
+Then I processed those model kills using quantum node circuits.
+
+54
+00:04:00,760 --> 00:04:03,240
+I visualized the behavior of block spheres
+
+55
+00:04:03,240 --> 00:04:08,280
+and mapped out entanglements as interactive 3D geometry.
+
+56
+00:04:08,280 --> 00:04:09,720
+The hardest part?
+
+57
+00:04:09,720 --> 00:04:11,320
+Particle scattering.
+
+58
+00:04:11,320 --> 00:04:15,240
+I used a hybrid quantum method to simulate how particle scatter
+
+59
+00:04:15,240 --> 00:04:17,640
+without changing the speed.
+
+60
+00:04:17,640 --> 00:04:20,120
+Even with hardware noise and decoherence,
+
+61
+00:04:20,120 --> 00:04:23,960
+I was able to get useful predictive results.
+
+62
+00:04:23,960 --> 00:04:26,440
+So basically I went from tracking storms
+
+63
+00:04:26,440 --> 00:04:29,400
+to modeling the birth of model kills.
+
+64
+00:04:29,480 --> 00:04:32,200
+Every part of this process blended quantum,
+
+65
+00:04:32,200 --> 00:04:34,920
+classical and AI tools to interpret,
+
+66
+00:04:34,920 --> 00:04:37,800
+simulate and refine what we see in nature.
+
+67
+00:04:37,800 --> 00:04:39,240
+The result?
+
+68
+00:04:39,240 --> 00:04:43,000
+Real-time pipelines for smarter environmental modeling.
+
+69
+00:04:43,000 --> 00:04:45,640
+A framework that can be deployed today
+
+70
+00:04:45,640 --> 00:04:48,840
+by government defense or research labs.
+
+71
+00:04:48,840 --> 00:04:52,840
+And now I'm wrapping it into a full AI interface on my site,
+
+72
+00:04:52,840 --> 00:04:54,840
+jessie.chepp.
+
+73
+00:04:54,840 --> 00:04:57,320
+Right now it's just a project showcase,
+
+74
+00:04:57,320 --> 00:05:01,320
+but it's actively becoming a real working tool.
+
+75
+00:05:01,320 --> 00:05:03,080
+Lots of moving parts.
+
+76
+00:05:03,080 --> 00:05:06,040
+Lots and lots of provisioning.
+
+77
+00:05:06,040 --> 00:05:09,320
+Lots of moving models back and forth.
+
+78
+00:05:09,320 --> 00:05:11,960
+And yeah, it's expensive and conversant,
+
+79
+00:05:11,960 --> 00:05:13,480
+but it's happening.
+
+80
+00:05:13,480 --> 00:05:15,480
+It's happening now.
+
+81
+00:05:15,480 --> 00:05:18,520
+The final version will include GPT,
+
+82
+00:05:18,520 --> 00:05:22,760
+BERT, MQPA, MTQC,
+
+83
+00:05:22,760 --> 00:05:25,880
+interactive search generators.
+
+84
+00:05:25,880 --> 00:05:28,360
+Hugging face, transformer models,
+
+85
+00:05:28,360 --> 00:05:33,160
+and all the visual quantum tools I've described.
+
+86
+00:05:33,160 --> 00:05:35,320
+So yeah, it's been quite a year
+
+87
+00:05:35,320 --> 00:05:37,880
+and I've just getting started.
+
+88
+00:05:37,880 --> 00:05:39,880
+Thank you guys so much for listening.
+
+89
+00:05:39,880 --> 00:05:42,680
+And special thanks to Dr. Vivian Sather,
+
+90
+00:05:42,680 --> 00:05:46,360
+Dr. Eric Larson, Dr. Jacqueline Chen,
+
+91
+00:05:46,360 --> 00:05:48,840
+and Dr. Jessie Zara Zalva for your trust,
+
+92
+00:05:48,840 --> 00:05:51,240
+support, and belief in this vision.
+
+93
+00:05:51,240 --> 00:05:53,560
+I can't wait to show you guys what's next.
+
+94
+00:05:53,560 --> 00:05:55,560
+Let's go make some quantum noise.
+
