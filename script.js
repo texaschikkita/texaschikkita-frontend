@@ -18,6 +18,23 @@ async function sendMessage() {
 }
 
 
+async function sendMessage() {
+  let userMessage = document.getElementById("userInput").value;
+  document.getElementById("messages").innerHTML += `<p><b>You:</b> ${userMessage}</p>`;
+  
+  let response = await fetch("https://api.texaschikkita.com/chat", {
+      method: "POST",
+      headers: {
+          "Content-Type": "application/json"
+      },
+      body: JSON.stringify({ message: userMessage })
+  });
+
+  let data = await response.json();
+  document.getElementById("messages").innerHTML += `<p><b>GPT:</b> ${data.response}</p>`;
+  document.getElementById("userInput").value = "";
+}
+
 
 
 
