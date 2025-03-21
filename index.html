@@ -21,21 +21,25 @@
 
     <section id="video">
         <h2>Watch How It Works</h2>
-        <iframe 
-            src="https://studio.d-id.com/share?id=b0c2f16f9b24b811524fadbb30e750b2&utm_source=copy" 
-            width="640" 
-            height="360" 
-            frameborder="0" 
-            allowfullscreen>
-        </iframe>
+        <div class="video-container">
+            <iframe 
+                src="https://studio.d-id.com/share?id=b0c2f16f9b24b811524fadbb30e750b2&utm_source=copy" 
+                width="640" 
+                height="360" 
+                frameborder="0" 
+                allowfullscreen>
+            </iframe>
+        </div>
     </section>
 
     <section id="chat">
         <h2>Try the GPT Model</h2>
         <div class="chat-container">
             <div id="chat-box"></div>
-            <input type="text" id="user-input" placeholder="Type your message..." />
-            <button onclick="sendMessage()">Send</button>
+            <div class="input-container">
+                <input type="text" id="user-input" placeholder="Type your message..." />
+                <button onclick="sendMessage()">Send</button>
+            </div>
         </div>
     </section>
 
